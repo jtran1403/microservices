@@ -1,4 +1,4 @@
-package p1.myshop.dao;
+package Catalogue.dao;
 
 public interface DvdDAO {
 }

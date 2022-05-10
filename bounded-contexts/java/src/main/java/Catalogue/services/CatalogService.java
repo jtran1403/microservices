@@ -1,7 +1,8 @@
-package p1.myshop.services.catalog;
+package Catalogue.services;
 
-import p1.myshop.entities.Item;
-import p1.myshop.entities.ItemId;
+
+import Catalogue.entities.Item;
+import Catalogue.entities.ItemId;
 
 public class CatalogService {
     public Item loadItem(ItemId itemId) {

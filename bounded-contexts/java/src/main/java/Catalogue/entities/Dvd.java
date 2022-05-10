@@ -1,4 +1,5 @@
-package p1.myshop.entities;
+package Catalogue.entities;
+
 
 public class Dvd implements Item {
     @Override

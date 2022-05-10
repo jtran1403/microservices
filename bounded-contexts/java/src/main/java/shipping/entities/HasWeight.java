@@ -1,4 +1,4 @@
-package p1.myshop.entities;
+package shipping.entities;
 
 public interface HasWeight {
     double weight();
